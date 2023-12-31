@@ -1,0 +1,118 @@
+.image1 {
+        position: absolute;
+  top: 350px;
+  left:550px;
+   width: 690px;
+   height: 315px;
+   background-repeat: no-repeat;
+        background: url("https://www.wizardingworld.com/assets/_next/static/images/logo-4621ed90bffdda5eee072109c23e7135.png");
+           }
+           .image2 {
+            position: absolute;
+      top: 75px;
+      left:10px;
+       width: 1500px;
+       height: 1000px;
+       background-repeat: no-repeat;
+            background: url("https://images5.alphacoders.com/129/thumb-1920-1299476.png")
+               }
+               .image3 {
+                position: absolute;
+          top: 1150px;
+          left:100px;
+           width: 1300px;
+           height: 550px;
+           background-repeat: no-repeat;
+                background: url("https://static4.depositphotos.com/1001877/508/i/950/depositphotos_5085439-stock-illustration-vintage-aged-background-old-paper.jpg");
+                   }     
+                   .image4 {
+                    position: absolute;
+              top: 1950px;
+              left:100px;
+               width: 650px;
+               height: 550px;
+               background-repeat: no-repeat;
+                    background: url("https://static4.depositphotos.com/1001877/508/i/950/depositphotos_5085439-stock-illustration-vintage-aged-background-old-paper.jpg");
+                       }  
+                       .image5 {
+                        position: absolute;
+                  top: 1950px;
+                  left:750px;
+                   width: 650px;
+                   height: 520px;
+                   background-repeat: no-repeat;
+                   padding: 15px;
+                        background: url("https://www.theshopthatmustnotbenamed.co.uk/img/product/minalima-poster-close-up-12015295-600.jpg");
+                           } 
+                           .image6 {
+                            position: absolute;
+                      top: 150px;
+                      left:240px;
+                       width: 1000px;
+                       height: 2500px;
+                       background-repeat: no-repeat;
+                       padding: 15px;
+                            background: url("https://static4.depositphotos.com/1001877/508/i/950/depositphotos_5085439-stock-illustration-vintage-aged-background-old-paper.jpg");
+                               }  
+        .example1 {
+            border: none;
+            background: url("https://cdn.architextures.org/textures/22/01/polished-concrete-61f844af557b3-1200.jpg");
+            width: 690px;
+           height: 1800px;
+           padding: 410px;
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+          }
+          body   
+{  
+height: 165vh;  
+margin-top: 0px;  
+padding: 0px;  
+background-size: cover;  
+font-family: sans-serif;  
+}  
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 15px;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: inline-block;
+    color: goldenrod;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  .p1{
+    font-size:35px;
+    font-family: "Georgia", Serif;
+  }
+  .p2{
+    font-size:28px;
+    font-family: "Georgia", Serif;
+  }
+  .p3{
+    font-size:100px;
+    font-family: "Georgia", Serif;
+  }
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .column {
+    float: left;
+    width: 32.3%;
+    padding: 6px;
+  }
