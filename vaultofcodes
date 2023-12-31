@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Harrypotter.gaming.com</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>   
+      <ul>
+        <li><a class="active" href="https://play.google.com/store/apps/details?id=com.tinyco.potter&hl=en_US">About</a></li>
+        <li><a href="file:///C:/Users/sweth/characters.html">Characters</a></li>
+        <li><a href="file:///C:/Users/sweth/wallpapers.html">Wallpapers</a></li>
+        <li><a href="file:///C:/Users/sweth/Harrypotter.html">Home</a></li>
+      </ul>
+        <div class="example1">
+          <div class="image2">
+           <div class="image1"></div>
+           </div>
+           <div class="image3"><p align="center" style="color: #30110D;" class="p1">CHOOSE AND PLAY YOUR<br>
+            CHARACTER</p>
+            <div class="row">
+              <div class="column">
+                <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fe8e6ab4-bc07-4932-bca4-17e2d7594645/dfq4m8x-ec4dc671-b4b1-4853-8314-0a77bcda84d1.png/v1/fill/w_1280,h_1080/natsai_onai___hogwarts_legacy_by_rubychu96_dfq4m8x-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2ZlOGU2YWI0LWJjMDctNDkzMi1iY2E0LTE3ZTJkNzU5NDY0NVwvZGZxNG04eC1lYzRkYzY3MS1iNGIxLTQ4NTMtODMxNC0wYTc3YmNkYTg0ZDEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.B8HiqoWxwLko8_9LtYu4q4Dgp0v32LS-UXK1vnXSf_w" width="410px" height="300px">
+                <p align="center" style="color: #30110D;" class="p2">Natsai Onai</p>
+              </div>
+              <div class="column">
+                <img src="https://hogwartslegacy.wiki.fextralife.com/file/Hogwarts-Legacy/sebastian_sallow_slytherin_student_hogwarts_legacy_wiki_3755px.png" width="345px" height="300px">
+                <p align="center" style="color: #30110D;" class="p2">Lore</p>
+              </div>
+              <div class="column">
+                <img src="https://hogwartslegacy.wiki.fextralife.com/file/Hogwarts-Legacy/imelda_reyes_npcs_hogwarts_legacy_wiki_guide.png" width="290px" height="300px">
+                <p align="left" style="color: #30110D;" class="p2">Imelda  Reyes Hogwarts</p>
+              </div>
+            </div>
+          </div>
+           <div class="image4">
+            <p align="center" style="color: #30110D;" class="p1">EXPLORE THE
+              WORLD</p><br><br>
+            <p style="color: #30110D;" class="p2">A magical world, filled with a plethora of magical creatures and beings, hidden away from nonmagical beings as magic belongs to a select few, and a world that demonstrates the daily struggle between good and evil and the delicate balance of choices that governs our lives.</p>
+           </div>
+           <div class="image5">
+            <p align="center" style="color: #30110D;" class="p1"></p>
+           </div>
+        </div> 
+    </body>
+</html>
